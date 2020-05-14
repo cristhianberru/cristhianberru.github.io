@@ -1,0 +1,32 @@
+@charset "UTF-8";
+p{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	line-height: 1.6;
+	padding: 5px;
+	
+}
+.amarillo{
+	background-color: burlywood;
+}
+div{
+	background-color: aquamarine;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	line-height: 1.6;
+	padding: 5px;	
+}
+
+.capitalLetter{
+	font-size:25px;
+	margin-right: 1px;
+	line-height: 1;
+}
+
+.bold{
+	font-weight: 500;
+}
+
+body{
+	background-color: gray;
+}
