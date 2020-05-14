@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.galeria{
+	background-color: gray;
+	width: 20%;
+	float: left;
+	margin: 2.5%;
+	height: 140px;
+}
+.encabezado{
+	background-color: gray;
+	height: 60px;
+	width: 100%;
+}
+.contenedor{
+	height: 140px;
+}
+.footer{
+	background-color: gray;
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-left: 1.6%;
+	margin-right: 1.6%;
+	margin-bottom: 20px;
+}
+.espacio{
+	clear:both;
+}
